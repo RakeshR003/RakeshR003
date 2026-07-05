@@ -41,6 +41,10 @@ Secure multi-user placement management portal with role-based access control, OT
 Data pipeline and ROI analytics platform for tracking research journal subscription usage across multi-site research organizations.
 `Python` `Flask` `PostgreSQL` · Case study — codebase is proprietary to CSIR-NAL
 
+**[Birthday Cafe — Reservation Platform](https://github.com/RakeshR003/Birthday-Cafe-Reservation-Platform)**
+Full-stack booking platform with three-role auth, real-time availability checks, and an automated pytest suite running via GitHub Actions CI.
+`Python` `Flask` `SQLAlchemy` `pytest`
+
 ---
 
 ### 📫 Let's Connect
