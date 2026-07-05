@@ -42,7 +42,7 @@ Data pipeline and ROI analytics platform for tracking research journal subscript
 `Python` `Flask` `PostgreSQL` · Case study — codebase is proprietary to CSIR-NAL
 
 **[Birthday Cafe — Reservation Platform](https://github.com/RakeshR003/Birthday-Cafe-Reservation-Platform)**
-Full-stack booking platform with three-role auth, real-time availability checks, and an automated pytest suite running via GitHub Actions CI.
+Full-stack booking platform with three-role auth, real-time availability checks, and an automated pytest suite running via GitHub Actions CI. [Live demo →](https://birthday-cafe-reservation-platform.onrender.com)
 `Python` `Flask` `SQLAlchemy` `pytest`
 
 ---
